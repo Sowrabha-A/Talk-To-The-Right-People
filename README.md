@@ -8,8 +8,7 @@ Talk to Right People is a Java application built using Java Swing and XAMPP Serv
 - Secure database storage using XAMPP Server.
 - Alumni profiles: Display information about alumni including their experiences studying abroad, the companies they work for, and contact information.
 - Search functionality: Search for alumni based on various criteria such as name, company, or study abroad destination.
-- Contact alumni: Allow juniors to contact alumni directly through the application.
-- Admin functionality: Admins can manage alumni profiles, add new profiles, and update existing information.
+- Contact alumni: Allow juniors to contact alumni.
 
 ## Prerequisites
 
@@ -32,6 +31,7 @@ git clone https://github.com/your-username/talk-to-right-people.git
    - Open the XAMPP control panel and start the Apache and MySQL services.
    - Create a new database named "employeedetails" in phpMyAdmin.
    - Import the provided SQL file (`employeedetails.sql`) into the "sql" database.
+   - after that add the jar file given in the libraries
 
 3. Configure the application:
 
